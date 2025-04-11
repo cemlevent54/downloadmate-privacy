@@ -1,0 +1,2 @@
+# downloadmate-privacy
+privacy policy
